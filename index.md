@@ -1,37 +1,58 @@
-//## Welcome to GitHub Page
+# Welcome to NSClab
 
-You can use the [editor on GitHub](https://github.com/nsclab-public/nsclab-public.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+NSClab Open Source
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Datasets
 
-### Markdown
+Papers and datasets are available:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Software Vulnerability Discovery
+  1. ["POSTER: vulnerability discovery with function representation learning from unlabeled projects", CCS 2017](https://github.com/DanielLin1986/function_representation_learning)
+  2. ["Cross-Project Transfer Representation Learning for Vulnerable Function Discovery," IEEE Transactions on Industrial Informatics, 2018](https://github.com/DanielLin1986/TransferRepresentationLearning)
+  3. ["Deep Learning-Based Vulnerable Function Detection: A Benchmark", ICICS 2019](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
+  4. [“Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases”, IEEE Transactions on Dependable and Secure Computing, 2020](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
+  
+* Traffic Classification
+  1. "Robust network traffic classification", IEEE/ACM Transactions on Networking, vol. 23, no. 4, pp. 1257-1270, 2015.
+      * Dataset on https://protect-au.mimecast.com/s/Wgo4CANZjNTZGx8psGEiuv?domain=1drv.ms
+  
+  2. ["Comprehensive analysis of network traffic data", Concurrency and Computation: Practice and Experience, 30(5), 2018](https://github.com/skyInGitHub/Comprehensive-analysis-of-network-traffic-data)
+      * Dataset on https://drive.google.com/open?id=0B6Qbk6GWTk7NdEJtVHRJQ3ZqSVE
+  
+* Twitter Spam Detection
+  1. ["Statistical twitter spam detection demystified: performance, stability and scalability", IEEE Access, vol. 5, pp. 11142-11154, 2017](https://github.com/danielLin1986d/RTTSD_prototype.git)
+  2. "6 Million Spam Tweets: A Large Ground Truth for Timely Twitter Spam Detection", IEEE International Conference on Communications (ICC), pp. 7065-7070, 2015
+      * Dataset on https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EQOcUj9WitdPrP5EaCtMgR0BA_8kFQsN35CdtPHb7I4Heg?e=yj3qaa
+      
+* Android Malware Detection
+  1. Android hiv: A study of repackaging malware for evading machine-learning detection, TIFS 
+      * Dataset on https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/xiaochen_swin_edu_au/EZ9Q6lfVYEpFlk5UROGpmCkBrAet81NrDDoIKpXVUhGpoQ?e=WiYtDR
 
-```markdown
-Syntax highlighted code block
+* Data Learning
+  1. ["Fuzzy-based information decomposition for incomplete and imbalanced data learning", IEEE Transactions on Fuzzy Systems, DOI: 10.1109/TFUZZ.2017.2754998, accepted on 08/09/2017](https://github.com/wolong3385/Recources)
+      * Dataset on https://drive.google.com/open?id=1d9syE31KPHXk9_jgTepPe-wYYg09csq2
 
-# Header 1
-## Header 2
-### Header 3
+* Inferring hidden network
+  1. ["Who Spread to Whom? Inferring Online Social Networks with User Features" IEEE ICC 2018](https://github.com/PassiveVision/Feature-Net-Learn)
+  
+* Adversarial machine learning
+  1. ["A Data-driven Attack against Support Vectors of SVM", In AsiaCCS, 2018.](https://github.com/wolong3385/SR)
 
-- Bulleted
-- List
+* Image source identification
+  1. ["Exploring feature coupling and model coupling for image source identification", IEEE Transactions on Information Forensics and Security, 2018](https://github.com/yonggangh/Feature-Coupling-and-Model-Coupling)
+  
+* VoteChoice Demonstration
+  1. Allan NG
+      * Dataset on https://youtu.be/FZPy900CalU
+  
+* cybersecurity incident prediction
+  1. ["Data-driven cybersecurity incident prediction: a survey", IEEE Communications Surveys and Tutorials, accepted, to appear in 2019](https://nansunsun.github.io/Cybersecurity-incident-prediction-and-discovery-data/)
+  
+* Inference Attack and Defence 
+  1. ["The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services" Privacy Preserving Machine Learning - CCS 2019 Workshop](https://github.com/skyInGitHub/The-Audio-Auditor)
+      * Dataset on https://liveswinburneeduau-my.sharepoint.com/:u:/r/personal/ymiao_swin_edu_au/Documents/Documents/Audio%20Auditor.zip?csf=1&e=NMMZFB
+  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsclab-public/nsclab-public.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
