@@ -45,7 +45,7 @@ Papers and datasets are available:
   1. Allan NG
       * Dataset on https://youtu.be/FZPy900CalU
   
-* cybersecurity incident prediction
+* Cybersecurity incident prediction
   1. ["Data-driven cybersecurity incident prediction: a survey", IEEE Communications Surveys and Tutorials, accepted, to appear in 2019](https://nansunsun.github.io/Cybersecurity-incident-prediction-and-discovery-data/)
   
 * Inference Attack and Defence 
